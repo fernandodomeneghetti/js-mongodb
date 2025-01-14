@@ -6,7 +6,7 @@ Capacitar os participantes a compreenderem os conceitos fundamentais de bancos d
 ---
 Download vscode https://code.visualstudio.com/download
 
-## **Plano de Ensino**
+## **Banco de Dados**
 
 ### **Módulo 1: Fundamentos de Bancos Relacionais e Não Relacionais**
 
